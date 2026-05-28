@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio-neeraj-puce.vercel.app](portfolio-neeraj-puce.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-neeraj-puce.vercel.app](https://portfolio-neeraj-puce.vercel.app)
 
 - 📫 How to reach me **nojha1855@gmail.com**
 
