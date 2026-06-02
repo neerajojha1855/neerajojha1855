@@ -8,6 +8,7 @@
 </p>
 
 ## 🧠 My Focus Areas
+- Frontend Development
 - Backend Development
 - AI/ML Development
 
