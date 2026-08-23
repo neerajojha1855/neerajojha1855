@@ -8,9 +8,9 @@
 </p>
 
 ## 🧠 My Focus Areas
-- Frontend Development
 - Backend Development
 - AI/ML Development
+- ROS2 Development
 
 
 ## 📊 GitHub Stats & Trophies
