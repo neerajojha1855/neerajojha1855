@@ -67,77 +67,42 @@ High-concurrency instant communication platform powered by WebSockets, featuring
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  </a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" /></a>
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://html.spec.whatwg.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://css3.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://css3.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" /></a>
 </p>
 
 <h3 align="center">Backend & Database</h3>
 <p align="center">
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
-  </a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" /></a>
 </p>
 
 <h3 align="center">Dev Tools</h3>
 <p align="center">
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://postman.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//-original.svg" alt="" width="40" />
-  </a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" /></a>&nbsp;&nbsp;
+  <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" /></a>
 </p>
 
 <br/>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/neerajojha1855">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neerajojha1855&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="neerajojha1855's GitHub Stats" />
-  </a>
+  <a href="https://github.com/neerajojha1855"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neerajojha1855&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="neerajojha1855's GitHub Stats" /></a>
   <img src="https://streak-stats.demolab.com/?user=neerajojha1855&theme=nightowl&hide_border=true&cache_seconds=86400" alt="neerajojha1855's GitHub Streak" width="49%" />
 </p>
 <p align="center">
@@ -155,7 +120,7 @@ High-concurrency instant communication platform powered by WebSockets, featuring
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/neeraj-ojha-422b3b375/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/neerajojha1855/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://neerajojha.qzz.io/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/918839327557"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nojha1855@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" /></a>
