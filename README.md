@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer & AI Engineer skilled in Generative AI, Python, REST APIs, and scalable PostgreSQL backend systems.</h3>
 
 <p align="center">
-  <a href="https://portfolio-neeraj-puce.vercel.app/">
+  <a href="https://neerajojha.qzz.io/">
     <img src="https://img.shields.io/badge/View_My_New_AI_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
