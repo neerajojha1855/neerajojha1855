@@ -189,6 +189,46 @@
       </p>
     </td>
   </tr>
+
+  <!-- ROW 4 -->
+  <tr valign="top">
+    <td width="50%">
+      <div align="center">
+        <h3>Planora AI</h3>
+        <p><b></b></p>
+      </div>
+      <p></p>
+      <div align="center">
+        <a href="https://planora-ai-alpha.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/neerajojha1855/planora-ai/" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+        </a>
+      </div>
+      <p align="center">
+        <code>React</code> · <code>FastAPI</code> · <code>Gemini</code> · <code>Alembic</code>
+      </p>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h3></h3>
+        <p><b></b></p>
+      </div>
+      <p></p>
+      <div align="center">
+        <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/neerajojha1855/" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+        </a>
+      </div>
+      <p align="center">
+        <code></code> · <code></code> · <code></code> · <code></code>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
