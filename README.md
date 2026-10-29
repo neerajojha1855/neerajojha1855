@@ -197,7 +197,7 @@
         <h3>Planora AI</h3>
         <p><b></b></p>
       </div>
-      <p></p>
+      <p>Planora is a GenAI-powered event-planning assistant for weddings, birthdays, and community celebrations. Create personalized budgets, timelines, vendor checklists, and creative ideas with an intuitive React interface, FastAPI backend, PostgreSQL persistence, secure authentication, and AI-assisted planning</p>
       <div align="center">
         <a href="https://planora-ai-alpha.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
